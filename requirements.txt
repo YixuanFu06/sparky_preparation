@@ -1,0 +1,11 @@
+python==3.10
+cirq==1.4.1
+ipykernel==6.29.5
+matplotlib==3.10.0
+numpy
+pylatexenc==2.10
+qiskit==2.1.0
+scipy==1.15.3
+tensorcircuit==0.12.0
+tensorflow==2.19.0
+tqdm==4.67.1
